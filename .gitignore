@@ -1,0 +1,9 @@
+# Entorno virtual
+env/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Configuración específica de VS Code
+.vscode/
